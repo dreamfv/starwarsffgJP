@@ -3,8 +3,10 @@
     "title": "STAR WARS FFG 日本語化MOD",
     "description": "FoundryVTTのSTAR WARS FFGシステムに日本語を追加します。",
     "version": "0.0.2",
-    "minimumCoreVersion" : "0.7.8",
-    "compatibleCoreVersion":"0.7.9",
+    "compatibility": {
+      "minimum": "11",
+      "verified": "11"
+    },
   
     "author": "dreamfv",
     "scripts": [],
@@ -18,7 +20,7 @@
     }],
   
     "url": "https://github.com/dreamfv/starwarsffgJP",
-    "manifest": "https://github.com/dreamfv/starwarsffgJP/blob/main/module.json",
-    "download": ""
+    "manifest": "https://github.com/dreamfv/starwarsffgJP/archive/master.zip",
+    "download": "https://github.com/dreamfv/starwarsffgJP/blob/main/module.json"
 
 }
