@@ -1,0 +1,12 @@
+.starwarsffg .container {
+  white-space: nowrap;
+}
+
+.starwarsffg .characteristic-item .characteristic-label {
+  font-size: 12px;
+}
+
+.starwarsffg .attribute .block-title {
+  font-size: 10px;
+}
+

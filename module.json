@@ -1,0 +1,24 @@
+{
+    "name": "starwarsffgJP",
+    "title": "STAR WARS FFG 日本語化MOD",
+    "description": "FoundryVTTのSTAR WARS FFGシステムに日本語を追加します。",
+    "version": "0.0.2",
+    "minimumCoreVersion" : "0.7.8",
+    "compatibleCoreVersion":"0.7.9",
+  
+    "author": "",
+    "scripts": [],
+    "styles": ["./styles/starwarsffg.css"],
+    "packs": [],
+  
+    "languages": [{
+      "lang": "ja",
+      "name": "日本語",
+      "path": "ja.json"
+    }],
+  
+    "url": "",
+    "manifest": "",
+    "download": ""
+
+}
