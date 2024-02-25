@@ -1,29 +1,30 @@
 {
-    "id": "starwarsffgJP",
-    "title": "STAR WARS FFG 日本語化MOD",
-    "description": "FoundryVTTのSTAR WARS FFGシステムに日本語を追加します。",
-    "version": "0.0.3",
-    "compatibility": {
-      "minimum": "11",
-      "verified": "11"
-    },
-    "authors": [
-      {
+  "id": "starwarsffgJP",
+  "title": "FFG版スターウォーズ 日本語化MOD",
+  "description": "FoundryVTTのFFG版スターウォーズシステムに日本語を追加します。",
+  "version": "0.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "authors": [
+    {
       "name": "dreamfv"
-      }
-    ],
-    "scripts": [],
-    "styles": ["./styles/starwarsffg.css"],
-    "packs": [],
-  
-    "languages": [{
+    }
+  ],
+  "scripts": [],
+  "styles": [
+    "./styles/starwarsffg.css"
+  ],
+  "packs": [],
+  "languages": [
+    {
       "lang": "ja",
       "name": "日本語",
       "path": "ja.json"
-    }],
-  
-    "url": "https://github.com/dreamfv/starwarsffgJP",
-    "manifest": "https://raw.githubusercontent.com/dreamfv/starwarsffgJP/main/module.json",
-    "download": "https://github.com/dreamfv/starwarsffgJP/archive/refs/heads/main.zip"
-
+    }
+  ],
+  "url": "https://github.com/dreamfv/starwarsffgJP",
+  "manifest": "https://raw.githubusercontent.com/dreamfv/starwarsffgJP/main/module.json",
+  "download": "https://github.com/dreamfv/starwarsffgJP/archive/refs/heads/main.zip"
 }
